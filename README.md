@@ -115,7 +115,7 @@ A comprehensive, structured library covering attacks, protocols, cryptography, t
 - [OpenSSL](tools/openssl.md)  
 
 ---
-do 
+
 ### 5️⃣ Labs & Practical Exercises
 - [SQL Injection Lab](labs/sql-injection-lab.md)  
 - [XSS Lab](labs/xss-lab.md)  
