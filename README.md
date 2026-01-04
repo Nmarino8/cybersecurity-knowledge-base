@@ -122,7 +122,7 @@ A comprehensive, structured library covering attacks, protocols, cryptography, t
 - [Network Sniffing Lab](labs/network-sniffing-lab.md)  
 - [ARP Spoofing Lab](labs/arp-spoofing-lab.md)  
 - [Password Cracking Lab](labs/password-cracking-lab.md)  
-- [TLS/SSL Analysis Lab](labs/tls-ssl-lab.md)  
+- [TLS/SSL Analysis Lab](labs/tls-ssl-analysis-lab.md)
 
 ---
 
